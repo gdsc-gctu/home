@@ -1,4 +1,9 @@
-![GDSC Logo](path/to/your/image.png)
+<div align="center">
+  <a href="https://github.com/gdsc-gctu/">
+  <img src="gdsclogo.png" alt="Logo" width="400">
+  </a>
+</div>
+
 # Google Developer Student Club (GDSC) - GCTU Chapter
 
 Welcome to the official GitHub repository of the Google Developer Student Club at GCTU. 
